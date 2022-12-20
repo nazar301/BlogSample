@@ -1,10 +1,7 @@
-const NotFoundPage = () => {
+const NotFoundPage = () => (
     
-    return (
-       
-        <h1>NotFoundPage page</h1>
-    
-    )
-}
+    <h1>404: Page Not Found!</h1>
+)
+
 
 export default NotFoundPage
